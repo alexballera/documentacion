@@ -1,11 +1,13 @@
-# Documentación de Alias y Comandos Esenciales
+# documentacion-linux
 
-Este repositorio contiene dos archivos principales para facilitar el trabajo en la terminal de Linux/Ubuntu:
+Repositorio con recursos útiles para la terminal de Linux/Ubuntu.
 
-- **alias.md**: Listado organizado y documentado de todos los alias definidos en el archivo `.bashrc`, agrupados por bloques temáticos (Node.js, utilidades, Git, Docker, etc.).
-- **comandos-esenciales.md**: Compilación de los comandos más utilizados en la terminal de Linux/Ubuntu, organizados por categorías y con ejemplos prácticos.
+## Archivos incluidos
 
-> Para gestionar y editar archivos Markdown de forma cómoda en Linux/Ubuntu, se recomienda instalar Apostrophe:
+- **alias.md**: Listado y explicación de alias personalizados para bash, organizados por bloques temáticos (Node.js, utilidades, Git, Docker, Copilot CLI, etc.).
+- **comandos-esenciales.md**: Tabla de comandos esenciales para la terminal de Linux/Ubuntu, con ejemplos de permisos, instalación de paquetes y utilidades varias.
+
+> Para editar y gestionar cómodamente archivos Markdown en Linux/Ubuntu, se recomienda instalar Apostrophe:
 >
 > ```bash
 > sudo apt install apostrophe
@@ -13,4 +15,4 @@ Este repositorio contiene dos archivos principales para facilitar el trabajo en 
 
 ---
 
-_Repositorio creado para centralizar y documentar herramientas de productividad en la terminal._
+Repositorio creado y mantenido por alexballera.
