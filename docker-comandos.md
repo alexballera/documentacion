@@ -88,11 +88,11 @@ Un **contenedor de Docker** es una instancia en ejecución de una imagen. Es un 
 ### 🐙 Docker Compose (multi-contenedor)
 | Comando                                 | Descripción                                      |
 |-----------------------------------------|--------------------------------------------------|
-| `docker-compose up`                     | Iniciar servicios definidos en docker-compose.yml |
-| `docker-compose up -d`                  | Iniciar servicios en segundo plano               |
-| `docker-compose down`                   | Detener servicios                                |
-| `docker-compose logs`                   | Ver logs de todos los servicios                  |
-| `docker-compose up --build`             | Reconstruir e iniciar servicios                  |
+| `docker compose up`                     | Iniciar servicios definidos en docker-compose.yml |
+| `docker compose up -d`                  | Iniciar servicios en segundo plano               |
+| `docker compose down`                   | Detener servicios                                |
+| `docker compose logs`                   | Ver logs de todos los servicios                  |
+| `docker compose up --build`             | Reconstruir e iniciar servicios                  |
 
 ---
 
